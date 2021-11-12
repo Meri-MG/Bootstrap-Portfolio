@@ -1,6 +1,6 @@
 # Bootstrap-Portfolio
 
-> In this project we were meant to recreate portfolio according to [figma templates](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=39%3A122) using Bootstrap framework.
+> In this project was recreated personal portfolio using Bootstrap framework. The design followed [figma templates](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=39%3A122) 
 > 
 # Project contains several sections:
 
